@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zus241/zus241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, меня зовут Максим! 👋  
+`Студент MAXITET`
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧭 Цель: Хочу стать востребованным специалистом 
+📚 Изучаю: Python, Golang, LUA
+
+<!-- Добавьте раздел контактов -->
+
+<!-- Добавьте достижения и технологии -->
+## 🏆 Достижения и сертификаты
+проект1 - [Защита проекта бд.pptx](https://github.com/user-attachments/files/20533902/default.pptx)
+
+
+проект2 - [![Tilda](https://static.tildacdn.info/img/tildacopy.png)](https://medzone.tilda.ws/#rec96093991)
+
+проект3 - [Практика Сушанов Максим 3.docx](https://github.com/user-attachments/files/20533903/3.docx)
+[praktika bd culinariya recepti Maksimka.pdf](https://github.com/user-attachments/files/20533906/praktika.bd.culinariya.recepti.Maksimka.pdf)
+
+
+
+
+
+<!-- Здесь можно добавить ваши достижения, если они есть -->
+
+## 🛠️ Технологии и инструменты
+
+### Языки программирования
+- 🐍 Python
+- 💻 Golang
+
+### Инструменты и библиотеки
+- 🐾 Pycharm
+- 💻 Visual Studio Code
+- 📈 Matplotlib
+- 🌐 Seaborn
+- 📍 Folium
+
+</div>
